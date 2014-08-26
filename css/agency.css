@@ -117,12 +117,8 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
-.btn-xsm {
-
-}
-
 .btn-xl {
-    padding: 20px 60px;
+    padding: 20px 40px;
     border-color: #a8a8a8;
     border-radius: 3px;
     text-transform: uppercase;
@@ -138,7 +134,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #fff;
     color: #fff;
     background-color: #c7c7c7;
 }
