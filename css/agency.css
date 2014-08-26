@@ -134,7 +134,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #FFFFFF;
+    border-color: #f6bf01;
     color: #fff;
     background-color: #c7c7c7;
 }
@@ -263,7 +263,8 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: ##000000;
+    color: #fff;
+    background-color:#000000
     background-attachment: scroll;
     background-image: url(../img/header-bg.png);
     background-position: center center;
