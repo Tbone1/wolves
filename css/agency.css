@@ -117,8 +117,12 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+.btn-xsm {
+
+}
+
 .btn-xl {
-    padding: 20px 40px;
+    padding: 20px 60px;
     border-color: #a8a8a8;
     border-radius: 3px;
     text-transform: uppercase;
@@ -126,7 +130,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    background-color: #a8a8a8;
 }
 
 .btn-xl:hover,
