@@ -264,7 +264,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-color:#000000
+    background: #000000 url(../img/header-bg.png) no-repeat fixed center;
     background-attachment: scroll;
     <!--background-image: url(../img/header-bg.png);-->
     background-position: center center;
